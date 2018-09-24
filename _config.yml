@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Andrei Nakagawa-Silva"
+  avatar           : "/test/assets/images/andrei.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biomedical Engineer. PhD Candidate."
   location         : "Singapore"
   email            : "nakagawa.andrei@gmail.com"
