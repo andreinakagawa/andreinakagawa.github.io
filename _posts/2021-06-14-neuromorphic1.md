@@ -5,4 +5,5 @@
   excerpt: "Ever heard about neuromorphic stuff? No? Well, now it's the time to learn!"
 ---
 
-# Neuromorphic Sensory Systems: A brief Introduction
+In nature, we will find a wide range of sensors: mechanoreceptors on the skin, the cochlea 
+in the inner ear and, of course, retinal ganglionar cells.
