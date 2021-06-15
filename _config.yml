@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Andrei Nakagawa-Silva"
   avatar           : "assets/images/andrei.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biomedical Engineer. PhD Candidate."
-  location         : "Singapore"
+  bio              : "PhD in Biomedical Engineering. R&D Engineer."
+  location         : "Uberlândia - Brazil"
   email            : "nakagawa.andrei@gmail.com"
   links:
     - label: "Email"
