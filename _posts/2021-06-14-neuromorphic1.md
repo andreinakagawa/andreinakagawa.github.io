@@ -7,3 +7,6 @@
 
 In nature, we will find a wide range of sensors: mechanoreceptors on the skin, the cochlea 
 in the inner ear and, of course, retinal ganglionar cells.
+
+
+$$ x_{(t)} = A_{t}x + b $$
