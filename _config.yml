@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Andrei Nakagawa-Silva, PhD"
   avatar           : "assets/images/andrei.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "R&D Engineer with keen interest on neuromorphic sensory systems."
+  bio              : "R&D Engineer with keen interest on neuromorphic sensory systems and artificial intelligence."
   location         : "Uberlândia - Brazil"
   email            : "nakagawa.andrei@gmail.com"
   links:
